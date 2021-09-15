@@ -1,8 +1,12 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub <!-- I changed the header size -->
+
+![cat](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e4783wacjezl8ceptw7nsg7ftu4ukcnk6o0lfxukb6r&rid=giphy.gif&ct=g) <!-- I added a gif -->
 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+
+![smart](https://media.giphy.com/media/he8aSdri52ZnW/giphy.gif?cid=ecf05e47iz1emazmyrahtql5w94erev3xwasd9nstbneiv3a&rid=giphy.gif&ct=g) <!-- I added a gif -->
 
 ## :octocat: Git and GitHub
 
@@ -20,12 +24,12 @@ The GitHub flow is a lightweight workflow that allows you to experiment and coll
 
 A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
 
-### Cloning 
+### Cloning 👬 <!-- I added an emoji -->
 
 When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
 To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
-### Committing and pushing
+### Committing and pushing 
 **Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
@@ -39,10 +43,15 @@ Repositories also contain **README**s. You can add a README file to your reposit
 To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
 
 ### Branches
+![branch](https://media.giphy.com/media/TgKHZ51jQsNQmLpejG/giphy.gif?cid=ecf05e47id68x61t5ft6f38vhpep43gmj3aywkxnky5v7hbn&rid=giphy.gif&ct=g)
+
 You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
 To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
 ### Forks
+
+![fork](https://media.giphy.com/media/Q1fOGy2n9gCs6A8eKi/giphy.gif?cid=ecf05e47uznrdv8d48m3dlezvh7clwb8uq4phndrg9zbkekj&rid=giphy.gif&ct=g)
+
 A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
 To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
